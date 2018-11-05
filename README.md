@@ -3,7 +3,7 @@ CNN model to predict the Strawberry, tomato, and cherry's
 
 Output models accuracy: 0.80
 
-Assignment brief:
+Assignment brief:<br/><br/>
 • Step 1: Conduct exploratory data analysis (EDA).<br/>
 • Step 2: Apply pre-processing techniques to improve quality of the data.<br/>
 • Step 3: Build a simple baseline model.<br/>
